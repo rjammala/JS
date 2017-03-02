@@ -2,4 +2,4 @@ console.log("Hello World");
 
 var colors = ["Blue", "Green", "Red"];
 
-console.Log(colors[0].toLowerCase();
+console.log(colors[0].toLowerCase();
